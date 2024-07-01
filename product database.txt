@@ -28,7 +28,7 @@ S.No.               Product Name                            Rate Of Item        
 25.                 Lever Complete                          96                  Hero                
 26.                 Lock Set                                894                 Hero                
 27.                 Maestro Edge 125                        99000               Hero                
-28.                 Maestroedge                             90000               Hero                
+28.                 Maestro Edge                             90000               Hero
 29.                 Main Stand                              371                 Hero                
 30.                 Meter Assembly                          1410                Hero                
 31.                 Mudguard Front                          844                 Hero                
@@ -49,13 +49,13 @@ S.No.               Product Name                            Rate Of Item        
 46.                 Side Panel Set                          823                 Honda               
 47.                 Side Stand                              184                 Hero                
 48.                 Side View Mirror                        128                 Hero                
-49.                 Spark Phug                              102                 Hero                
+49.                 Spark Plug                              102                 Hero
 50.                 Speedometer                             1715                Hero                
 51.                 Speedometer Kit                         588                 Hero                
-52.                 Splender I Smart BS6                    52000               Hero                
-53.                 Spllender Plus                          38900               Hero                
+52.                 Splendor I Smart BS6                    52000               Hero
+53.                 Splendor Plus                          38900               Hero
 54.                 Sticker Kit                             450                 Hero                
-55.                 Super Splender                          55000               Hero                
+55.                 Super Splendor                          55000               Hero
 56.                 Swing Arm Complete                      857                 Hero                
 57.                 Switch Unit Start                       102                 Hero                
 58.                 Tail Light Cover                        230                 Hero                
@@ -63,7 +63,7 @@ S.No.               Product Name                            Rate Of Item        
 60.                 Visor                                   1164                Hero                
 61.                 Wheel (Rim)Front                        4147                Hero                
 62.                 Wheel(Rim) Rear                         4684                Hero                
-63.                 Winkerassembly                          185                 Hero                
+63.                 WinkerAssembly                          185                 Hero
 64.                 X Pulse 200T                            56100               Hero                
 65.                 XPulse                                  62600               Hero
 66.                 Xtreme 200 S                            48000               Hero
