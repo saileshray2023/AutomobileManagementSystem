@@ -5,7 +5,7 @@ S.No.               Product Name                            Rate Of Item        
 2.                  Brake Shoe                              207                 Hero                
 3.                  Chain Set                               970                 Hero                
 4.                  Clutch Wire                             238                 Hero                
-5.                  Cluth Plate                             105                 Hero                
+5.                  Clutch Plate                             105                 Hero
 6.                  Combination Switch                      390                 Hero                
 7.                  Crank Bearing Kit                       1152                Hero                
 8.                  Cushion Assembly Rear                   1049                Hero                
@@ -44,7 +44,7 @@ S.No.               Product Name                            Rate Of Item        
 41.                 Rider Foot Rest                         175                 Hero                
 42.                 Saree Guard                             518                 Hero                
 43.                 Self Motor                              11715               Hero                
-44.                 Shock Absorbrd Set                      1748                Hero                
+44.                 Shock Absorber Set                      1748                Hero
 45.                 Shocker Front                           1996                Hero                
 46.                 Side Panel Set                          823                 Honda               
 47.                 Side Stand                              184                 Hero                
@@ -65,8 +65,8 @@ S.No.               Product Name                            Rate Of Item        
 62.                 Wheel(Rim) Rear                         4684                Hero                
 63.                 Winkerassembly                          185                 Hero                
 64.                 X Pulse 200T                            56100               Hero                
-65.                 Xpulse                                  62600               Hero                
-66.                 Xtreme 200 S                            48000               Hero                
+65.                 XPulse                                  62600               Hero
+66.                 Xtreme 200 S                            48000               Hero
 67.                 Xtreme Sports                           57000               Hero                
-68.                 engine                                  8000                hero                
-69.                 handbrake23                             2300                Honda               
+68.                 Engine                                  8000                hero
+69.                 Handbrake23                             2300                Honda
