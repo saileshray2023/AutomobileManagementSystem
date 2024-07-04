@@ -5,7 +5,7 @@ S.No.               Product Name                            Rate Of Item        
 2.                  Brake Shoe                              207                 Hero                
 3.                  Chain Set                               970                 Hero                
 4.                  Clutch Wire                             238                 Hero                
-5.                  Clutch Plate                             105                 Hero
+5.                  Clutch Plate                             105                Hero
 6.                  Combination Switch                      390                 Hero                
 7.                  Crank Bearing Kit                       1152                Hero                
 8.                  Cushion Assembly Rear                   1049                Hero                
@@ -28,7 +28,7 @@ S.No.               Product Name                            Rate Of Item        
 25.                 Lever Complete                          96                  Hero                
 26.                 Lock Set                                894                 Hero                
 27.                 Maestro Edge 125                        99000               Hero                
-28.                 Maestro Edge                             90000               Hero
+28.                 Maestro Edge                             90000              Hero
 29.                 Main Stand                              371                 Hero                
 30.                 Meter Assembly                          1410                Hero                
 31.                 Mudguard Front                          844                 Hero                
@@ -53,7 +53,7 @@ S.No.               Product Name                            Rate Of Item        
 50.                 Speedometer                             1715                Hero                
 51.                 Speedometer Kit                         588                 Hero                
 52.                 Splendor I Smart BS6                    52000               Hero
-53.                 Splendor Plus                          38900               Hero
+53.                 Splendor Plus                          38900                Hero
 54.                 Sticker Kit                             450                 Hero                
 55.                 Super Splendor                          55000               Hero
 56.                 Swing Arm Complete                      857                 Hero                
@@ -68,5 +68,5 @@ S.No.               Product Name                            Rate Of Item        
 65.                 XPulse                                  62600               Hero
 66.                 Xtreme 200 S                            48000               Hero
 67.                 Xtreme Sports                           57000               Hero                
-68.                 Engine                                  8000                hero
+68.                 Engine                                  8000                Hero
 69.                 Handbrake23                             2300                Honda
